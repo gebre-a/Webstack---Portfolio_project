@@ -8,7 +8,7 @@ Contact Information:
 	● GitHub: https://github.com/gebre-a
 
 
- Team Members
+Team Members
 	● Team Member: Gebrekidan Alemayehu (Solo Project)
 	● Project Duration: July 29, 2024 - August 9, 2024
 	● Title: Book Store Web
