@@ -1,14 +1,18 @@
-Project Title: Book Store
+	Project Title: Book Store
 Project Lead: Gebrekidan Alemayehu
+
+
 Contact Information:
 ● Email: kidanealemayehu12@gmail.com
 ● LinkedIn: https://www.linkedin.com/in/gebrekidan-alemayehu/
 ● GitHub: https://github.com/gebre-a
+
+
  Team Members
 ● Team Member: Gebrekidan Alemayehu (Solo Project)
 ● Project Duration: July 29, 2024 - August 9, 2024
 ● Title: Book Store Web
-●
+
 Responsibilities:
 ● Project Planning: Defined the project scope, features, and timeline.
 ● Design: Created UI designs .
